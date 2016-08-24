@@ -2,7 +2,7 @@
 
 A Jekyll version of the "Eventually" theme by [HTML5 UP](https://html5up.net/).
 
-![alt text](images/eventually.jpg "Eventually Theme")
+![Eventually Theme](images/eventually.jpg "Eventually Theme")
 
 # How to Use
 
