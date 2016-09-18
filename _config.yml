@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Eventually by HTML5 UP
+title: Eventually
 email: youremailaddress@gmail.com
 description: A simple template for telling the world when you'll launch your next big thing. Brought to you by HTML5 UP.
 baseurl: "/eventually-jekyll-theme" # the subpath of your site, e.g. /blog
