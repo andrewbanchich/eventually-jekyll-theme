@@ -7,7 +7,7 @@ description: A simple template for telling the world when you'll launch
 <!-- Header -->
 <header id="header">
 	<h1>{{ page.title }}</h1>
-	<p>{{ site.description }}</p>
+	<p>{{ page.description }}</p>
 </header>
 
 <!-- Signup Form -->
