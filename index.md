@@ -6,7 +6,7 @@ description: A simple template for telling the world when you'll launch
 
 <!-- Header -->
 <header id="header">
-	<h1>{{ site.title }}</h1>
+	<h1>{{ page.title }}</h1>
 	<p>{{ site.description }}</p>
 </header>
 
