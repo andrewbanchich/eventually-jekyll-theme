@@ -16,7 +16,6 @@ url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your 
 gems:
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-feed
 
 # Social settings
 500px_url: 
