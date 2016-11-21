@@ -12,11 +12,6 @@ description: A simple template for telling the world when you'll launch your nex
 baseurl: "/eventually-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
 
-# Plugins
-gems:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-
 # Social settings
 500px_url: 
 facebook_url: 
@@ -31,14 +26,3 @@ twitter_url: https://twitter.com/andrewbanchich
 
 # Build settings
 markdown: kramdown
-
-# Plugin: jekyll-seo-tag
-twitter:
-  username: 
-# Add one or more of the following
-facebook:
-  app_id: 
-  publisher: 
-  admins: 
-logo: 
-google_site_verification: 
