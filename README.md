@@ -2,12 +2,12 @@
 
 A Jekyll version of the "Eventually" theme by [HTML5 UP](https://html5up.net/).
 
-![Eventually Theme](images/eventually.jpg "Eventually Theme")
+![Eventually Theme](assets/images/eventually.jpg "Eventually Theme")
 
 # How to Use
 
-For those unfamiliar with how Jekyll works, check out [https://jekyllrb.com/](https://jekyllrb.com/) for all the details, 
-or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/), 
+For those unfamiliar with how Jekyll works, check out [https://jekyllrb.com/](https://jekyllrb.com/) for all the details,
+or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/),
 and [creating pages](https://jekyllrb.com/docs/pages/).
 
 - **GitLab**: Simply fork this repository and start editing the `_config.yml` file!  
@@ -70,7 +70,7 @@ Slideshow Background:
 
 			'url': 'alignment'
 
-		Where 'url' is the image (eg. 'images/foo.jpg', 'http://somewhere.else/foo.jpg'), and
+		Where 'url' is the image (eg. 'assets/images/foo.jpg', 'http://somewhere.else/foo.jpg'), and
 		'alignment' is how the image should be vertically aligned ('top', 'center', or 'bottom').
 
 		Note: Browsers that don't support CSS transitions (like IE<=9) will only see the first image.
